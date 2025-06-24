@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "492868747549",
+    "firebase_url": "https://safe-cab-95960-default-rtdb.firebaseio.com",
+    "project_id": "safe-cab-95960",
+    "storage_bucket": "safe-cab-95960.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492868747549:android:331af0b4ab8c9a3fbc21f4",
+        "android_client_info": {
+          "package_name": "com.example.new_safe_cab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTix7BBZhOXFlGZOSCoyT53qDAoRcNMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492868747549:android:ed33552dd6f44cabbc21f4",
+        "android_client_info": {
+          "package_name": "com.example.safecabuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTix7BBZhOXFlGZOSCoyT53qDAoRcNMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492868747549:android:732d3e4c68812355bc21f4",
+        "android_client_info": {
+          "package_name": "com.project.safecab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTix7BBZhOXFlGZOSCoyT53qDAoRcNMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
